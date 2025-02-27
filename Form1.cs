@@ -14,6 +14,7 @@ namespace generatorOfPasses
         public Form1()
         {
             InitializeComponent();
+            SetupUI();
         }
 
         private string GeneratePassword(int length)
@@ -39,6 +40,25 @@ namespace generatorOfPasses
             {
                 MessageBox.Show("Введите корректную длину пароля!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+        }
+
+        private void SetupUI()
+        {
+            this.Text = "Генератор паролей";
+            this.Size = new System.Drawing.Size(400, 200);
+
+            Label lblLength = new Label() { Text = "Длина пароля:", Left = 10, Top = 20, Width = 100 };
+            this.Controls.Add(lblLength);
+
+            txtLength = new TextBox() { Left = 120, Top = 20, Width = 50 };
+            this.Controls.Add(txtLength);
+
+            btnGenerate = new Button() { Text = "Сгенерировать", Left = 180, Top = 20, Width = 100 };
+            btnGenerate.Click += btnGenerate_Click;
+            this.Controls.Add(btnGenerate);
+
+            txtPassword = new TextBox() { Left = 10, Top = 60, Width = 350, ReadOnly = true };
+            this.Controls.Add(txtPassword);
         }
     }
 }

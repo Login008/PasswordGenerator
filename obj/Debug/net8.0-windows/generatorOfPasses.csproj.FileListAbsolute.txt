@@ -1,0 +1,17 @@
+D:\ИС РПО\generatorOfPasses\bin\Debug\net8.0-windows\generatorOfPasses.exe
+D:\ИС РПО\generatorOfPasses\bin\Debug\net8.0-windows\generatorOfPasses.deps.json
+D:\ИС РПО\generatorOfPasses\bin\Debug\net8.0-windows\generatorOfPasses.runtimeconfig.json
+D:\ИС РПО\generatorOfPasses\bin\Debug\net8.0-windows\generatorOfPasses.dll
+D:\ИС РПО\generatorOfPasses\bin\Debug\net8.0-windows\generatorOfPasses.pdb
+D:\ИС РПО\generatorOfPasses\obj\Debug\net8.0-windows\generatorOfPasses.Form1.resources
+D:\ИС РПО\generatorOfPasses\obj\Debug\net8.0-windows\generatorOfPasses.csproj.GenerateResource.cache
+D:\ИС РПО\generatorOfPasses\obj\Debug\net8.0-windows\generatorOfPasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИС РПО\generatorOfPasses\obj\Debug\net8.0-windows\generatorOfPasses.AssemblyInfoInputs.cache
+D:\ИС РПО\generatorOfPasses\obj\Debug\net8.0-windows\generatorOfPasses.AssemblyInfo.cs
+D:\ИС РПО\generatorOfPasses\obj\Debug\net8.0-windows\generatorOfPasses.csproj.CoreCompileInputs.cache
+D:\ИС РПО\generatorOfPasses\obj\Debug\net8.0-windows\generatorOfPasses.sourcelink.json
+D:\ИС РПО\generatorOfPasses\obj\Debug\net8.0-windows\generatorOfPasses.dll
+D:\ИС РПО\generatorOfPasses\obj\Debug\net8.0-windows\refint\generatorOfPasses.dll
+D:\ИС РПО\generatorOfPasses\obj\Debug\net8.0-windows\generatorOfPasses.pdb
+D:\ИС РПО\generatorOfPasses\obj\Debug\net8.0-windows\generatorOfPasses.genruntimeconfig.cache
+D:\ИС РПО\generatorOfPasses\obj\Debug\net8.0-windows\ref\generatorOfPasses.dll
