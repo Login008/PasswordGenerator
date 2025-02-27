@@ -28,6 +28,18 @@ namespace generatorOfPasses
 
             return password.ToString();
         }
+
+        private void btnGenerate_Click(object sender, EventArgs e)
+        {
+            if (int.TryParse(txtLength.Text, out int length) && length > 0)
+            {
+                txtPassword.Text = GeneratePassword(length);
+            }
+            else
+            {
+                MessageBox.Show("Введите корректную длину пароля!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
     }
 }
 
